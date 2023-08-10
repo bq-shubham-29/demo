@@ -1,7 +1,7 @@
 # Autoscale GitHub Actions Self Hosted Runner on EC2 Instance
 Automate (increase or decrease) the number of self-hosted runners according to the workflow_job in the queued activity. 
 
-![Architecture](docs/overview.svg)
+![Architecture](overview.svg)
 
 ## Flaws
 
