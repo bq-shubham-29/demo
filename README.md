@@ -1,1 +1,1 @@
-# demo
+![Architecture](docs/component-overview.svg)
